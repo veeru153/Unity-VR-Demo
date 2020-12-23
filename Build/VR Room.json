@@ -1,0 +1,16 @@
+{
+"companyName": "veeru153",
+"productName": "VRDemo",
+"productVersion": "0.1",
+"dataUrl": "VR Room.data.unityweb",
+"wasmCodeUrl": "VR Room.wasm.code.unityweb",
+"wasmFrameworkUrl": "VR Room.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
