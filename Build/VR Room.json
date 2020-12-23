@@ -1,6 +1,6 @@
 {
 "companyName": "veeru153",
-"productName": "VRDemo",
+"productName": "VRDemoApp",
 "productVersion": "0.1",
 "dataUrl": "VR Room.data.unityweb",
 "wasmCodeUrl": "VR Room.wasm.code.unityweb",
